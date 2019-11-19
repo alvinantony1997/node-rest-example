@@ -2,7 +2,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/scriptex/node-rest-example.svg)](https://github.com/scriptex/node-rest-example/commits/master)
 [![Build Status](https://travis-ci.org/scriptex/node-rest-example.svg?branch=master)](https://travis-ci.org/scriptex/node-rest-example)
 [![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/node-rest-example/README.md)](https://github.com/scriptex/node-rest-example/)
-
+[![Build Status](https://dev.azure.com/ronydas2/Parts%20Unlimited/_apis/build/status/alvinantony1997.node-rest-example?branchName=typescript)](https://dev.azure.com/ronydas2/Parts%20Unlimited/_build/latest?definitionId=2&branchName=typescript)
 # node-rest-example
 
 An example rest api with NodeJS and MongoDB
